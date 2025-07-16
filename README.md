@@ -4,6 +4,9 @@ A machine learning-powered heart disease prediction system built with Streamlit,
 
 ## 🌐 **LIVE DEMO - TRY THE APP NOW!**
 # **[🚀 Heart Disease Prediction App - LIVE](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
+![App Interface View 1](assets/SCREENSHOT_-_APP_1.jpg)      ![App Interface View 2](assets/SCREENSHOT-_APP-2.jpg)
+![App Interface View 3](assets/SCREENSHOT_-_APP_-3.jpg)
+![App Results](assets/SCREENSHOT_APP_RESULTS.jpg)
 
 ---
 
@@ -14,6 +17,9 @@ A machine learning-powered heart disease prediction system built with Streamlit,
 - **Random Forest**: Ensemble learning method for comparison
 - **XGBoost**: Gradient boosting algorithm for robust predictions
 - **Model Comparison**: Comprehensive evaluation of all three algorithms
+
+- ![ROC Curve](assets/SCREENSHOT_-_ROC_CURVE.jpg)
+- 
 
 ### 🏥 Patient Management System
 - **Patient Registration**: Register new patients with demographic information
@@ -172,6 +178,9 @@ The project includes comprehensive model evaluation with visual analysis:
 - **Logistic Regression Confusion Matrix**: Shows best classification performance
 - **Random Forest Confusion Matrix**: Ensemble method evaluation
 - **XGBoost Confusion Matrix**: Gradient boosting performance metrics
+![Logistic Regression Confusion Matrix](assets/SCREENSHOT-LOGISTIC_REGRESSION-CONFUSION_MATRIX.jpg)
+![Random Forest Confusion Matrix](assets/SCREENSHOT-RANDOM_FOREST-CONFUSION_MATRIX.jpg)
+![XGBoost Confusion Matrix](assets/SCREENSHOT-XG_BOOST-CONFUSION_MATRIX.jpg)
 
 #### Performance Visualization
 - **ROC Curve Analysis**: Receiver Operating Characteristic curve comparison
