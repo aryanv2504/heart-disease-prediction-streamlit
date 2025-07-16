@@ -220,6 +220,9 @@ The project includes comprehensive model evaluation with visual analysis:
 12. **Ca**: Number of major vessels (0-4)
 13. **Thal**: Thalassemia (1=normal, 2=fixed defect, 3=reversible defect)
 
+ ![Feature Distribution](assets/SCREENSHOT-FEATURE%20DISTRIBUTION.jpg)
+
+
 ### Target Variable
 - **0**: No heart disease
 - **1**: Heart disease present
