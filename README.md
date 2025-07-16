@@ -4,10 +4,11 @@ A machine learning-powered heart disease prediction system built with Streamlit,
 
 ## 🌐 **LIVE DEMO - TRY THE APP NOW!**
 # **[🚀 Heart Disease Prediction App - LIVE](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
-![App Interface View 1](assets/SCREENSHOT_-_APP_1.jpg)      ![App Interface View 2](assets/SCREENSHOT-_APP-2.jpg)
-![App Interface View 3](assets/SCREENSHOT_-_APP_-3.jpg)
-![App Results](assets/SCREENSHOT_APP_RESULTS.jpg)
 
+![App Results](assets/SCREENSHOT%20APP%20RESULTS.jpg)
+![App Interface View 1](assets/SCREENSHOT%20-%20APP%201.jpg)
+![App Interface View 2](assets/SCREENSHOT-%20APP-2.jpg)
+![App Interface View 3](assets/SCREENSHOT%20-%20APP%20-3.jpg)
 ---
 
 ## 🚀 Features
