@@ -6,9 +6,8 @@ A machine learning-powered heart disease prediction system built with Streamlit,
 # **[🚀 Heart Disease Prediction App - LIVE](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
 
 ![App Results](assets/SCREENSHOT%20APP%20RESULTS.jpg)
-![App Interface View 1](assets/SCREENSHOT%20-%20APP%201.jpg)
-![App Interface View 2](assets/SCREENSHOT-%20APP-2.jpg)
-![App Interface View 3](assets/SCREENSHOT%20-%20APP%20-3.jpg)
+![App Interface View 1](assets/SCREENSHOT%20-%20APP%201.jpg)     ![App Interface View 2](assets/SCREENSHOT-%20APP-2.jpg)
+
 ---
 
 ## 🚀 Features
@@ -19,7 +18,7 @@ A machine learning-powered heart disease prediction system built with Streamlit,
 - **XGBoost**: Gradient boosting algorithm for robust predictions
 - **Model Comparison**: Comprehensive evaluation of all three algorithms
 
-- ![ROC Curve](assets/SCREENSHOT_-_ROC_CURVE.jpg)
+- ![ROC Curve](assets/SCREENSHOT%20-%20ROC%20CURVE.jpg)
 - 
 
 ### 🏥 Patient Management System
@@ -179,10 +178,8 @@ The project includes comprehensive model evaluation with visual analysis:
 - **Logistic Regression Confusion Matrix**: Shows best classification performance
 - **Random Forest Confusion Matrix**: Ensemble method evaluation
 - **XGBoost Confusion Matrix**: Gradient boosting performance metrics
-![Logistic Regression Confusion Matrix](assets/SCREENSHOT-LOGISTIC_REGRESSION-CONFUSION_MATRIX.jpg)
-![Random Forest Confusion Matrix](assets/SCREENSHOT-RANDOM_FOREST-CONFUSION_MATRIX.jpg)
-![XGBoost Confusion Matrix](assets/SCREENSHOT-XG_BOOST-CONFUSION_MATRIX.jpg)
-
+![Logistic Regression Confusion Matrix](assets/SCREENSHOT-LOGISTIC%20REGRESSION-CONFUSION%20MATRIX.jpg)     ![Random Forest Confusion Matrix](assets/SCREENSHOT-RANDOM%20FOREST-CONFUSION%20MATRIX.jpg)
+![XGBoost Confusion Matrix](assets/SCREENSHOT-XG%20BOOST-CONFUSION%20MATRIX.jpg)
 #### Performance Visualization
 - **ROC Curve Analysis**: Receiver Operating Characteristic curve comparison
 - **Feature Distribution**: Analysis of feature importance and distribution
