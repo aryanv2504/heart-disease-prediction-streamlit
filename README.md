@@ -288,53 +288,9 @@ heart-disease-prediction-streamlit/
     └── model_utils.py                       # Model loading and prediction functions
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-### Development Process
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Developer
 
 **Aryan Verma**
 - GitHub: [@aryanv2504](https://github.com/aryanv2504)
-- Portfolio: [Your Portfolio](https://your-portfolio-url.com)
 
-## 🔄 Version History
-
-- **v1.0.0**: Initial release with comprehensive heart disease prediction system
-  - Logistic Regression model deployment
-  - Patient management system
-  - Clinical assessment interface
-  - Risk factor analysis and visualization
-  - Streamlit Cloud deployment
-
-## 🆘 Support
-
-For support, please:
-- Open an issue on GitHub
-- Check the documentation
-- Contact the developer
-
----
-
-**⚡ Quick Start:**
-1. Clone repository: `git clone https://github.com/aryanv2504/heart-disease-prediction-streamlit.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run application: `streamlit run app.py`
-4. Open browser: `http://localhost:8501`
-
-**🎯 Key Achievement:** Logistic Regression achieved the best performance among all three models tested, providing accurate and reliable heart disease predictions based on clinical parameters.
-
----
-
-*This machine learning system uses the Cleveland Heart Disease dataset to predict heart disease risk. The Logistic Regression model was selected after comprehensive comparison with Random Forest and XGBoost algorithms.*
