@@ -1,9 +1,9 @@
-# Heart Disease Prediction System 🫀
+# Heart Disease Prediction System
 
 A machine learning-powered heart disease prediction system built with Streamlit, trained on the Cleveland Heart Disease dataset. The system compares three different ML algorithms (Logistic Regression, Random Forest, and XGBoost) and uses the best-performing model for accurate heart disease predictions.
 
-## 🌐 **LIVE DEMO - TRY THE APP NOW!**
-# **[🚀 Heart Disease Prediction App - LIVE](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
+## LIVE DEMO - TRY THE APP NOW!
+# **[Heart Disease Prediction App - LIVE](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
 
 ![App Interface View 1](assets/SCREENSHOT%20-%20APP%201.jpg)
 ![App Results](assets/SCREENSHOT%20%20APP%20RESULTS.jpg)
@@ -12,24 +12,23 @@ A machine learning-powered heart disease prediction system built with Streamlit,
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🤖 Machine Learning Models
+### Machine Learning Models
 - **Logistic Regression**: Best performing model with highest accuracy
 - **Random Forest**: Ensemble learning method for comparison
 - **XGBoost**: Gradient boosting algorithm for robust predictions
 - **Model Comparison**: Comprehensive evaluation of all three algorithms
 
-- ![ROC Curve](assets/SCREENSHOT%20-%20ROC%20CURVE.jpg)
-- 
+![ROC Curve](assets/SCREENSHOT%20-%20ROC%20CURVE.jpg)
 
-### 🏥 Patient Management System
+### Patient Management System
 - **Patient Registration**: Register new patients with demographic information
 - **Patient Search**: Quickly find existing patients by name or ID
 - **Patient Records**: Maintain comprehensive patient histories
 - **Recent Patients**: Easy access to recently assessed patients
 
-### 🩺 Clinical Assessment Engine
+### Clinical Assessment Engine
 The system analyzes key clinical parameters from the Cleveland Heart Disease dataset:
 - **Age**: Patient age in years
 - **Sex**: Biological sex (0=Female, 1=Male)
@@ -43,14 +42,14 @@ The system analyzes key clinical parameters from the Cleveland Heart Disease dat
 - **ST Depression**: Exercise-induced ST depression levels
 - **Major Vessels Count**: Number of major vessels (0-4)
 
-### 📊 Advanced Analytics & Reporting
+### Advanced Analytics & Reporting
 - **Risk Score Calculation**: Precise probability percentage with confidence intervals
 - **Clinical Factor Analysis**: Visual representation of contributing risk factors
 - **Feature Importance**: Shows which clinical factors contribute most to prediction
 - **Risk Assessment History**: Track patient assessments over time
 - **Model Performance Metrics**: Accuracy, precision, recall, and F1-score
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### Machine Learning Pipeline
 ```
@@ -59,7 +58,7 @@ Cleveland Heart Disease Dataset
 Data Preprocessing & Feature Engineering
           ↓
 Model Training & Comparison:
-├── Logistic Regression ⭐ (Best Model)
+├── Logistic Regression (Best Model)
 ├── Random Forest
 └── XGBoost
           ↓
@@ -82,7 +81,7 @@ Streamlit Web Application
 - **XGBoost**: Robust gradient boosting performance
 - **Evaluation Metrics**: Cross-validation, confusion matrix, ROC curve
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -113,7 +112,7 @@ streamlit run app.py
 Open your browser and navigate to: http://localhost:8501
 ```
 
-## 🌐 **OR TRY THE LIVE DEPLOYED VERSION:**
+## OR TRY THE LIVE DEPLOYED VERSION:
 # **[https://heart-disease-prediction-app-byaryan.streamlit.app/](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
 
 ### Required Dependencies
@@ -129,7 +128,7 @@ matplotlib
 seaborn
 ```
 
-## 💻 Usage Guide
+## Usage Guide
 
 ### 1. Patient Registration
 - Navigate to "Register New Patient" section
@@ -154,7 +153,7 @@ Input the following clinical parameters:
   - **Risk Classification**: LOW/MODERATE/HIGH
   - **Contributing Factors**: Visual analysis of risk factors
 
-## 📊 Model Development Process
+## Model Development Process
 
 ### 1. Data Preparation
 ```python
@@ -168,7 +167,7 @@ Input the following clinical parameters:
 ### 2. Model Training & Comparison
 ```python
 # Three models trained and compared:
-1. Logistic Regression (sklearn) ⭐ Best Performance
+1. Logistic Regression (sklearn) - Best Performance
 2. Random Forest Classifier (sklearn)
 3. XGBoost Classifier (xgboost)
 ```
@@ -180,8 +179,13 @@ The project includes comprehensive model evaluation with visual analysis:
 - **Logistic Regression Confusion Matrix**: Shows best classification performance
 - **Random Forest Confusion Matrix**: Ensemble method evaluation
 - **XGBoost Confusion Matrix**: Gradient boosting performance metrics
-![Logistic Regression Confusion Matrix](assets/SCREENSHOT-LOGISTIC%20REGRESSION-CONFUSION%20MATRIX.jpg)     ![Random Forest Confusion Matrix](assets/SCREENSHOT-RANDOM%20FOREST-CONFUSION%20MATRIX.jpg)
+
+![Logistic Regression Confusion Matrix](assets/SCREENSHOT-LOGISTIC%20REGRESSION-CONFUSION%20MATRIX.jpg)
+
+![Random Forest Confusion Matrix](assets/SCREENSHOT-RANDOM%20FOREST-CONFUSION%20MATRIX.jpg)
+
 ![XGBoost Confusion Matrix](assets/SCREENSHOT-XG%20BOOST-CONFUSION%20MATRIX.jpg)
+
 #### Performance Visualization
 - **ROC Curve Analysis**: Receiver Operating Characteristic curve comparison
 - **Feature Distribution**: Analysis of feature importance and distribution
@@ -203,7 +207,7 @@ The project includes comprehensive model evaluation with visual analysis:
 - Model saved using pickle for deployment
 - Integrated into Streamlit application for real-time predictions
 
-## 🎯 Cleveland Heart Disease Dataset
+## Cleveland Heart Disease Dataset
 
 ### Dataset Features
 1. **Age**: Age in years
@@ -220,21 +224,20 @@ The project includes comprehensive model evaluation with visual analysis:
 12. **Ca**: Number of major vessels (0-4)
 13. **Thal**: Thalassemia (1=normal, 2=fixed defect, 3=reversible defect)
 
- ![Feature Distribution](assets/SCREENSHOT-FEATURE%20DISTRIBUTION.jpg)
-
+![Feature Distribution](assets/SCREENSHOT-FEATURE%20DISTRIBUTION.jpg)
 
 ### Target Variable
 - **0**: No heart disease
 - **1**: Heart disease present
 
-## 🔒 Medical Disclaimer
+## Medical Disclaimer
 
-**⚠️ Important:** This system is for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical decisions.
+**Warning:** This system is for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical decisions.
 
-## 📈 System Performance
+## System Performance
 
 ### Model Comparison Results
-- **Logistic Regression**: ⭐ Best overall performance
+- **Logistic Regression**: Best overall performance
 - **Random Forest**: Good interpretability with feature importance
 - **XGBoost**: Robust performance with gradient boosting
 
@@ -244,12 +247,12 @@ The project includes comprehensive model evaluation with visual analysis:
 - Comprehensive confidence interval reporting
 - Feature importance analysis for clinical insights
 
-## 🚀 Deployment
+## Deployment
 
 ### Streamlit Cloud Deployment
 The application is deployed on Streamlit Cloud for easy access:
 
-## 🌐 **[LIVE APP - CLICK HERE TO TEST](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
+## **[LIVE APP - CLICK HERE TO TEST](https://heart-disease-prediction-app-byaryan.streamlit.app/)**
 
 - **Automatic Updates**: Connected to GitHub for continuous deployment
 - **Scalable**: Handles multiple concurrent users
@@ -261,7 +264,7 @@ The application is deployed on Streamlit Cloud for easy access:
 streamlit run app.py
 ```
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 heart-disease-prediction-streamlit/
 ├── README.md
@@ -288,9 +291,7 @@ heart-disease-prediction-streamlit/
     └── model_utils.py                       # Model loading and prediction functions
 ```
 
-
-## 👨‍💻 Developer
+## Developer
 
 **Aryan Verma**
 - GitHub: [@aryanv2504](https://github.com/aryanv2504)
-
